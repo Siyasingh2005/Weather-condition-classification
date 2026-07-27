@@ -3,6 +3,17 @@
 ## Objective
 Classify weather conditions as **Cool** or **Warm** using live meteorological data (temperature, relative humidity, surface pressure, wind speed) pulled from the Open-Meteo API, by training a Support Vector Machine (SVM) classifier with an RBF kernel.
 
+Name: SIYA SINGH
+
+Registration Number: 23MIP10030
+
+Application Number: IN26011506
+
+Batch Number: 1A
+
+Email: siya.23mip10030@vitbhopal.ac.in
+
+
 ## API Documentation Link
 - Open-Meteo Forecast API: https://open-meteo.com/
 - Example request used:
